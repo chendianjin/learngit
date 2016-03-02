@@ -1744,12 +1744,10 @@ a.backTop:hover{text-decoration: none;line-height: 18px;background:url(../images
 .iMask {width:100%; height:100%; background:#000; filter:alpha(opacity=72); opacity:0.72; position:fixed; top:0; left:0; z-index:99999;}
 .iCont {max-width:1000px; max-height:580px; overflow:hidden; position:fixed; left:50%; top:50%; z-index:100000;}
 .iCont .close {display:block; width:40px; height:40px; background:url(../images/v3/i_close.png); text-indent:-9999px; position:absolute; right:0; top:0; z-index:100001;}
-
 /* 圣诞节的下雪 */
 #canvas {width:100%; height:100%; position:fixed; top:0; left:0; z-index:10000; pointer-events:none;}
 /*手机版*/
 .index-phone{background: #009ce0;height: 660px;margin-bottom: -50px;text-align: center}
-
 /* 详情页上的百度分享 */
 .bdsharebuttonbox {position:absolute; bottom:7px; right:0;}
 .bdsharebuttonbox span {line-height:24px; color:#999;}
@@ -1765,7 +1763,6 @@ a.backTop:hover{text-decoration: none;line-height: 18px;background:url(../images
 .bdsharebuttonbox .bds_tqq:hover {background-position:-51px -2px !important;}
 .bdsharebuttonbox .bds_douban {background-position:-101px -27px !important;}
 .bdsharebuttonbox .bds_douban:hover {background-position:-101px -2px !important;}
-
 /* 活动页面的顶部简版导航条 */
 .minibar {width: 100%; height: 56px; box-shadow: 0 5px 5px rgba(0, 0, 0, .1); background: #fff; font-family:"Microsoft Yahei"; position:relative;}
 .minibar p {width: 1190px; margin: 0 auto;}
